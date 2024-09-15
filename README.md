@@ -15,8 +15,7 @@ pip install -r requirements.txt
 ```
 Build extension package
 ```
-python setup.py build develop
-cd geotransformer/modules/e2pn/vgtk
-python setup.py build_ext -i
+cd utils
+sh compile.sh
 ```
 
