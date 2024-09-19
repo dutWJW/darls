@@ -1,0 +1,8 @@
+open3d
+numpy
+pybind11
+pybind11-global
+faiss-gpu
+torch==1.6.0
+easydict
+git+https://github.com/mit-han-lab/torchsparse.git@v1.4.0
