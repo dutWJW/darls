@@ -17,17 +17,21 @@ pip install -r requirements.txt
 Replace the PYTHON_EXECUTABLE, PYTHON_INCLUDE_DIRS and PYTHON_LIBRARIES in the following two files with the correct path.
 
 [distributionSample/pybind11/CMakeLists.txt](/utils/distributionSample/pybind11/CMakeLists.txt)
+
 [uniformSample/pybind11/CMakeLists.txt](utils/uniformSample/pybind11/CMakeLists.txt)
 
 ```bash
 cd utils
 sh compile.sh
 ```
-### Prepare Dataset
-downloading datasets and uncompress them to ./DATASET.
+### Prepare Dataset and Weights
 
-### Prepare Weights
+downloading datasets and uncompress them to ./DATASET
+
 downloading weights and uncompress them to ./models/checkpoints
+
+[Link](https://pan.quark.cn/s/c4b44f7d9f5d)
+
 
 ### Wildplaces
 ```bash
