@@ -47,3 +47,17 @@ python testETH.py --dataset 'DATASET_PATH/eth'
 ```bash
 python testKITTI.py --dataset 'DATASET_PATH/kitti'
 ```
+
+### Cite
+```
+@ARTICLE{10919083,
+  author={Wang, Jiawei and Zhuang, Yan and Yan, Fei and Zhang, Hong},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Density Adaptive Registration of Large-Scale Point Clouds in Diverse Outdoor Environments}, 
+  year={2025},
+  volume={10},
+  number={5},
+  pages={4636-4643},
+  keywords={Point cloud compression;Feature extraction;Convolutional neural networks;Bandwidth;Matched filters;Collaboration;Training;Three-dimensional displays;Sensors;Density measurement;Multi-robot systems;Density adaptive registration;point density variations;diverse outdoor environments},
+  doi={10.1109/LRA.2025.3549659}}
+```
